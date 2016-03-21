@@ -1,3 +1,2 @@
-első sor.
-második sor.
-és legyen harmadik?
+második sor!
+harmadik sor.
